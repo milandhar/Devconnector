@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://milan123:Mildog1993@cluster0-fb6az.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://milan123:Mildog1993@cluster0-fb6az.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "samba5605"
 }
